@@ -1,0 +1,6 @@
+C:\Users\din\Desktop\Digi Janitor\Digi One\Digi One\bin\Debug\usrinf\usrinf\bin\Debug\usrinf.dll
+C:\Users\din\Desktop\Digi Janitor\Digi One\Digi One\bin\Debug\usrinf\usrinf\bin\Debug\usrinf.pdb
+C:\Users\din\Desktop\Digi Janitor\Digi One\Digi One\bin\Debug\usrinf\usrinf\obj\Debug\usrinf.csprojAssemblyReference.cache
+C:\Users\din\Desktop\Digi Janitor\Digi One\Digi One\bin\Debug\usrinf\usrinf\obj\Debug\usrinf.csproj.CoreCompileInputs.cache
+C:\Users\din\Desktop\Digi Janitor\Digi One\Digi One\bin\Debug\usrinf\usrinf\obj\Debug\usrinf.dll
+C:\Users\din\Desktop\Digi Janitor\Digi One\Digi One\bin\Debug\usrinf\usrinf\obj\Debug\usrinf.pdb
